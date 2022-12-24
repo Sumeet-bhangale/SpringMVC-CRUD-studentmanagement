@@ -1,8 +1,7 @@
-# studentmanagement
+# CRUD interface using Spring MVC
 
-E-Commerce Project
-The objective of the Project is to create an E-commerce web portal
-which would have Product Prices, Product description, Photos of
-Products, etc. It would also store data of Customer Name, Email,
-Contact details in MySQL database. Tools/Technologies used: Java,
-JDBC, HTML, CSS, Bootstrap, Hibernate, MySQL, NetBeans.
+Spring MVC + Spring JDBC are the Spring main Module which has
+Implementing in this Project. The Output of the Project is Student
+Management System Application with Spring Framework and Java.
+Tools/Technologies used: Java, Spring, Spring MVC, Spring JDBC,
+HTML, CSS, Bootstrap, Database: MySQL.
